@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arijitmondal-94
-- 👀 I’m interested in Data Science(timeseries, NLP)
-- 🌱 I’m currently learning Transfer Learning
+- 👀 I’m interested in Data Science(timeseries, BESS Optimisation)
+- 🌱 I’m currently working on Reinforecment Learning (BESS Control Strategy)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me arijit.mondal94@outlook.com or am1250@exeter.ac.uk
+- 📫 How to reach me arijit.mondal94@outlook.com or arijit.mondal@gridimp.com
 
 <!---
 arijitmondal-94/arijitmondal-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
