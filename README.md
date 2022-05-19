@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arijitmondal-94
-- 👀 I’m interested in Data Science(timeseries, BESS Optimisation)
-- 🌱 I’m currently working on Reinforecment Learning (BESS Control Strategy)
+- 👀 I’m interested in Data Science(RL, Energy Demand Forecast, analytics)
+- 🌱 I’m currently working on Reinforecment Learning (Energy Storage Control Strategy)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arijit.mondal94@outlook.com or arijit.mondal@gridimp.com
 
